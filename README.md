@@ -3,7 +3,7 @@
 ## My plans
 
 - 🔭 I’m currently working on a [EasyMedApp][easymedapp]!
-- 🌱 I’m currently learning Type-script, and Gatsby with GraphQl
+- 🌱 I’m currently learning Type-script, Gatsby and GraphQl
 - ⚡ Fun fact: I love to play Basketball and Volleyball
 
 ### Connect with me:
