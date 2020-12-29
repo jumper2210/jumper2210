@@ -1,4 +1,4 @@
-# Hi there, I'm Krzysiek. If you want to know me better, checkout my portfolio [skoczekk.pl][website] 👋
+# Hi there, I'm Krzysiek. If you want to know me better, checkout my portfolio [kskoczek.pl][website] 👋
 
 ## My plans
 
